@@ -1,0 +1,13 @@
+Name: frassoc
+Version: 0.1
+Description: Tool for navigating the USF free association norms database
+License: MIT
+License-file: LICENSE
+Extra-source-files: README.md
+Data-files: data.csv
+Author: Sean Voisen
+Maintainer: sean@voisen.org
+Build-Type: Simple
+Cabal-Version: >= 1.8
+Executable: frassoc
+  Main-is: FreeAssocaition.hs
